@@ -1,0 +1,1 @@
+/home/eder/.vim/janus/vim/gvimrc
