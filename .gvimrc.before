@@ -1,4 +1,4 @@
 set guioptions -=m
 set guioptions -=T
 
-set lines=999 columns=100
+set lines=999 columns=140
