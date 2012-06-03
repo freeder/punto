@@ -12,6 +12,7 @@
 .dmrc
 .fontconfig/
 .gconf/
+.gitconfig
 .gem/
 .gnome2/
 .goutputstream-7QUIEW
@@ -29,6 +30,7 @@
 .purple/
 .rvm/
 .scala_history
+.ssh/
 .thumbnails/
 .vim.old/
 .vim/
