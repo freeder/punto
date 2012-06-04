@@ -23,6 +23,7 @@
 .local/
 .macromedia/
 .mozilla/
+.npm/
 .pam_environment
 .pki/
 .pulse-cookie

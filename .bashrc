@@ -108,11 +108,10 @@ fi
 
 PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
 
-PS1='\[\e[0;32m\]\u\[\e[m\] \[\e[1;34m\]\w\[\e[m\] \[\e[1;32m\]\$\[\e[m\] \[\e[1;37m\]'
-
 #Set alias for vim remote connection
 alias g="gvim --remote-silent"
 
 if [ -f ~/.my_bash_locals ]; then
     . ~/.my_bash_locals
 fi
+
