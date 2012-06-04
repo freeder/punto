@@ -110,3 +110,7 @@ PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
 
 #Set alias for vim remote connection
 alias g="gvim --remote-silent"
+
+if [ -f ~/.my_bash_locals ]; then
+    . ~/.my_bash_locals
+fi
