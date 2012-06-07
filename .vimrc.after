@@ -1,1 +1,25 @@
+"Set theme
 color solarized
+
+" Make tab completion for files/buffers act like bash
+set wildmenu
+"use emacs-style tab completion when selecting files, etc
+set wildmode=longest,list
+
+"Set gtags key maps
+"let Gtags_Auto_Map = 1
+
+map <Left> :echo "no!"<cr>
+map <Right> :echo "no!"<cr>
+map <Up> :echo "no!"<cr>
+map <Down> :echo "no!"<cr>
+
+nmap <F2> :copen<CR>
+nmap <F4> :cclose<CR>
+
+"Move on windows 
+nnoremap <c-j> <c-w>j
+nnoremap <c-k> <c-w>k
+nnoremap <c-h> <c-w>h
+nnoremap <c-l> <c-w>l
+"

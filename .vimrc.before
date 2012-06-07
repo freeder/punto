@@ -1,1 +1,4 @@
 let mapleader=","
+
+"Disable syntastic is not working properly with java
+call janus#disable_plugin('syntastic')
