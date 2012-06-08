@@ -13,6 +13,10 @@ if [ -d "$HOME/bin" ] ; then
     PATH="$HOME/bin:$PATH"
 fi
 
+if [ -f ~/.my_bash_locals ] ; then
+    . ~/.my_bash_locals
+fi
+
 PATH=$HOME/apps/nodejs/bin:$PATH
 export PATH
 
