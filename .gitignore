@@ -19,6 +19,7 @@
 .goutputstream-*
 .gstreamer-0.10/
 .gtk-bookmarks
+.gvfs/
 .jin/
 .local/
 .macromedia/

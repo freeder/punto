@@ -17,10 +17,10 @@ nmap <C-n> :cn<CR>
 nmap <C-p> :cp<CR>
 
 "Set gtags key maps
-nmap <F9> :Gtags<SPACE>
 nmap <F6> :Gtags -f %<CR>
 nmap <F7> :GtagsCursor<CR>
 nmap <F8> :Gozilla<CR>
+nmap <F9> :Gtags<SPACE>
 
 "Move on windows 
 nnoremap <c-j> <c-w>j
