@@ -1,5 +1,7 @@
 "Set theme
-color solarized
+set background=dark
+colorscheme solarized
+set t_Co=16
 
 " Make tab completion for files/buffers act like bash
 set wildmenu
@@ -13,8 +15,8 @@ map <Down> :echo "no!"<cr>
 
 nmap <F2> :copen<CR>
 nmap <F4> :cclose<CR>
-nmap <C-n> :cn<CR>
-nmap <C-p> :cp<CR>
+"nmap <C-n> :cn<CR>
+"nmap <C-p> :cp<CR>
 
 "Set gtags key maps
 nmap <F6> :Gtags -f %<CR>
