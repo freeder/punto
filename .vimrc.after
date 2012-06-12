@@ -6,9 +6,6 @@ set wildmenu
 "use emacs-style tab completion when selecting files, etc
 set wildmode=longest,list
 
-"Set gtags key maps
-"let Gtags_Auto_Map = 1
-
 map <Left> :echo "no!"<cr>
 map <Right> :echo "no!"<cr>
 map <Up> :echo "no!"<cr>
@@ -16,6 +13,14 @@ map <Down> :echo "no!"<cr>
 
 nmap <F2> :copen<CR>
 nmap <F4> :cclose<CR>
+nmap <C-n> :cn<CR>
+nmap <C-p> :cp<CR>
+
+"Set gtags key maps
+nmap <F9> :Gtags<SPACE>
+nmap <F6> :Gtags -f %<CR>
+nmap <F7> :GtagsCursor<CR>
+nmap <F8> :Gozilla<CR>
 
 "Move on windows 
 nnoremap <c-j> <c-w>j
