@@ -17,6 +17,7 @@
 .gem/
 .gnome2/
 .goutputstream-*
+.gksu.lock
 .gstreamer-0.10/
 .gtk-bookmarks
 .gvfs/
@@ -33,6 +34,7 @@
 .rvm/
 .scala_history
 .ssh/
+.squirrel-sql/
 .thumbnails/
 .vim.old/
 .vim/
