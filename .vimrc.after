@@ -15,8 +15,8 @@ map <Down> :echo "no!"<cr>
 
 nmap <F2> :copen<CR>
 nmap <F4> :cclose<CR>
-"nmap <C-n> :cn<CR>
-"nmap <C-p> :cp<CR>
+nmap <C-n> :cn<CR>
+nmap <C-p> :cp<CR>
 
 "Set gtags key maps
 nmap <F6> :Gtags -f %<CR>
@@ -29,4 +29,7 @@ nnoremap <c-j> <c-w>j
 nnoremap <c-k> <c-w>k
 nnoremap <c-h> <c-w>h
 nnoremap <c-l> <c-w>l
-"
+
+"Set Ñ as usual english qwerty mapping
+nmap ñ ;
+nmap Ñ :
