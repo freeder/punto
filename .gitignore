@@ -16,6 +16,7 @@
 .gitconfig
 .gem/
 .gnome2/
+.googleearth/
 .goutputstream-*
 .gstreamer-0.10/
 .gtk-bookmarks
@@ -75,6 +76,7 @@ VirtualBox VMs/
 .netbeans
 .netbeans-derby
 .qbrowserv2
+.recently-used
 .sqldeveloper
 .subversion
 .thumbnails
@@ -85,3 +87,4 @@ VirtualBox VMs/
 .hplip/
 .java/
 .vimfuzzyfinder
+.winff/
