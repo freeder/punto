@@ -1,3 +1,6 @@
 [submodule ".janus/lslint.vim"]
 	path = .janus/lslint.vim
 	url = https://github.com/hallettj/jslint.vim.git
+[submodule ".janus/coffee-script"]
+	path = .janus/coffee-script
+	url = https://github.com/kchmck/vim-coffee-script.git
