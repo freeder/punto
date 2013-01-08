@@ -32,6 +32,7 @@
 .pulse-cookie
 .pulse/
 .purple/
+.rbenv/
 .rvm/
 .scala_history
 .ssh/
@@ -60,7 +61,13 @@ Música/
 Público/
 tmp/
 VirtualBox VMs/
-
+oracle/
+projects/
+src/
+tolling/
+administrativo/
+libros/
+musica/
 
 .AbiSuite
 .asadminpass
@@ -69,6 +76,8 @@ VirtualBox VMs/
 .gimp-2.6
 .gradle
 .groovy
+.gvimrc
+.inputrc
 .libreoffice
 .m2
 .mysql
@@ -89,4 +98,5 @@ VirtualBox VMs/
 .hplip/
 .java/
 .vimfuzzyfinder
+.vimrc
 .winff/
