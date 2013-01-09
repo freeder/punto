@@ -1,3 +1,6 @@
 [submodule ".janus/lslint.vim"]
 	path = .janus/lslint.vim
 	url = https://github.com/hallettj/jslint.vim.git
+[submodule ".janus/vim-powerline"]
+	path = .janus/vim-powerline
+	url = https://github.com/Lokaltog/vim-powerline.git

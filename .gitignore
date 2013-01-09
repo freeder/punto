@@ -6,6 +6,7 @@
 .bash_history
 .bash_login
 .bash_logout
+.cpan/
 .my_bash_locals
 .cache/
 .config/
@@ -68,6 +69,7 @@ tolling/
 administrativo/
 libros/
 musica/
+Session.vim
 
 .AbiSuite
 .asadminpass
