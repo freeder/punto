@@ -3,6 +3,7 @@
 .Xauthority
 .Xdefaults
 .adobe/
+.android/
 .bash_history
 .bash_login
 .bash_logout
@@ -22,6 +23,7 @@
 .gstreamer-0.10/
 .gtk-bookmarks
 .gvfs/
+.icedtea/
 .jin/
 .local/
 .macromedia/
@@ -33,7 +35,9 @@
 .pulse/
 .purple/
 .rvm/
+.rbenv/
 .scala_history
+.scid/
 .ssh/
 .squirrel-sql/
 .thumbnails/
@@ -52,6 +56,7 @@ Vídeos/
 tmp/
 work/
 
+ajedrez/
 apps/
 bitacora/
 Documentos/
@@ -69,6 +74,7 @@ VirtualBox VMs/
 .gimp-2.6
 .gradle
 .groovy
+.irb-history
 .libreoffice
 .m2
 .mysql

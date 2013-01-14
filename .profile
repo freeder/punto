@@ -20,7 +20,19 @@ fi
 PATH=$HOME/apps/nodejs/bin:$PATH
 export PATH
 
-PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+PATH=$HOME/apps/sublime_text_2:$PATH
 export PATH
 
-[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
+PATH=$HOME/apps/android-sdk-linux/tools:$HOME/apps/android-sdk-linux/platform-tools:$PATH
+export PATH
+
+PATH=$HOME/apps/apache-maven-3.0.4/bin:$PATH
+export PATH
+
+JAVA_HOME=/usr/lib/jvm/java-6-openjdk-i386
+export JAVA_HOME
+
+# Rbenv instalation
+export PATH=$HOME/.rbenv/bin:$PATH
+eval "$(rbenv init -)"
+
