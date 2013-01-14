@@ -1,0 +1,8 @@
+--color
+--sort-files
+--smart-case
+
+--type-set=less=.less
+--type-set=coffee=.coffee
+
+--ignore-dir=public

@@ -7,6 +7,7 @@
 .bash_history
 .bash_login
 .bash_logout
+.cpan/
 .my_bash_locals
 .cache/
 .config/
@@ -34,6 +35,7 @@
 .pulse-cookie
 .pulse/
 .purple/
+.rbenv/
 .rvm/
 .rbenv/
 .scala_history
@@ -65,7 +67,14 @@ Música/
 Público/
 tmp/
 VirtualBox VMs/
-
+oracle/
+projects/
+src/
+tolling/
+administrativo/
+libros/
+musica/
+Session.vim
 
 .AbiSuite
 .asadminpass
@@ -75,6 +84,8 @@ VirtualBox VMs/
 .gradle
 .groovy
 .irb-history
+.gvimrc
+.inputrc
 .libreoffice
 .m2
 .mysql
@@ -95,5 +106,6 @@ VirtualBox VMs/
 .hplip/
 .java/
 .vimfuzzyfinder
+.vimrc
 .winff/
 .wine/
