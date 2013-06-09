@@ -1,9 +1,9 @@
 set background=dark
-colorscheme getafe
+colorscheme molokai
 
 if has("win32") || has("win16")
   set gfn=Consolas:h9:cANSI
 else
-  set gfn=Droid\ Sans\ Mono\ 10
+  set gfn=Droid\ Sans\ Mono\ 11
 endif
 

@@ -109,3 +109,6 @@ Session.vim
 .vimrc
 .winff/
 .wine/
+.FBReader
+.JxBrowser
+.apport-ignore.xml
