@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/eder/work/schneider/tolling/src/bos_git_repos/backoffice/webserviceschema'
+let g:netrw_dirhist_2='/home/eder/work/schneider/tolling/src/bos_git_repos/backoffice/webserviceschema/ACL'
+let g:netrw_dirhist_3='/home/eder/work/schneider/tolling/src/bos_git_repos/backoffice/webserviceschema/ACL/UserManagementInterface'
+let g:netrw_dirhist_4='/home/eder/work/schneider/tolling/src/bos_git_repos/backoffice'
+let g:netrw_dirhist_5='/home/eder/work/schneider/tolling/src/bos_git_repos/backoffice/webserviceschema'
+let g:netrw_dirhist_6='/home/eder/work/schneider/tolling/src/bos_git_repos/backoffice/webserviceschema/ACL'
+let g:netrw_dirhist_7='/home/eder/work/schneider/tolling/src/bos_git_repos/backoffice/webserviceschema/ACL/UserManagementInterface'
+let g:netrw_dirhist_8='/home/eder/work/schneider/tolling/src/bos_git_repos/backoffice-core/ui-web'
+let g:netrw_dirhist_9='/home/eder/work/schneider/projects/Guipuzkoa'

@@ -1,3 +1,5 @@
+*.un~
+
 .ICEauthority
 .Skype/
 .Xauthority
@@ -14,6 +16,8 @@
 .dbus/
 .dmrc
 .fontconfig/
+.fonts/
+.fonts.conf.d/
 .gconf/
 .gitconfig
 .gem/
@@ -25,10 +29,13 @@
 .gtk-bookmarks
 .gvfs/
 .icedtea/
+.icons/
+.jboss-cli-history
 .jin/
 .local/
 .macromedia/
 .mozilla/
+.mplayer/
 .npm/
 .pam_environment
 .pki/
@@ -36,15 +43,16 @@
 .pulse/
 .purple/
 .rbenv/
+.rpmdb/
 .rvm/
 .rbenv/
+.sane/
 .scala_history
 .scid/
+.sylpheed-2.0/
 .ssh/
 .squirrel-sql/
 .thumbnails/
-.vim.old/
-.vim/
 .viminfo
 .xscreensaver
 .xsession-errors
@@ -84,7 +92,6 @@ Session.vim
 .gradle
 .groovy
 .irb-history
-.gvimrc
 .inputrc
 .libreoffice
 .m2
@@ -106,7 +113,6 @@ Session.vim
 .hplip/
 .java/
 .vimfuzzyfinder
-.vimrc
 .winff/
 .wine/
 .FBReader
